@@ -57,11 +57,3 @@ The project uses a GitHub Actions workflow that triggers on `push`, `pull_reques
 
 Refer to the `.github/workflows/CI.yml` file (replace with your actual workflow file name and path) for the workflow configuration details.
 
-## Contributing
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is open-source, licensed under [MIT](LICENSE) (replace with your license).
-
-## Contact
-For more information, inquiries, or issues, please contact [YourName](mailto:you@example.com) (replace with your contact information).
